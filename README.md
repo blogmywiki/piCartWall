@@ -19,4 +19,8 @@ There are buttons:
 - The clock is a cut-and-shunt job from another project and it stops when audio plays. It should be integrated / threaded somehow.
 - Better indication of when audio is playing e.g. button goes red. This has defeated me thus far.
 - Some indication of duration / play progress / out-time. All a bit hard.
-- Meaningful wordy button labels... from file name? User-configurbale?
+- Meaningful wordy button labels... from file name? User-configurable?
+
+# Links
+- YouTube video of it in use: https://youtu.be/nMhbPfSras8 
+- My blog includes a screenshot: http://www.suppertime.co.uk/blogmywiki/2018/03/cartwall/
