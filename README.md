@@ -5,7 +5,7 @@ A radio / theatre cartwall to play jingles or sound FX instantly on touch screen
 Cartwalls are used in radio studios to play in jingles at the touch of a button. This is designed to do the same on a bog-standard Raspberry Pi connected to a touch screen. It does not require ANY other software or libraries to be installed, all you need is a Raspberry Pi with Raspbian installed, some WAV files in your Pi's defualt Music folder - and a touch screen for full effect. It could be used in student, hospital or community radio or for playing sound effects in a play.
 
 # How to set it up
-Place some WAV files in /home/pi/Music/ on your Raspberry Pi, up to 14. Any other files, including MP3s, will be ignored. Run picartwall.py and it will assign a button to the first 14 WAV files it finds in alphanumeric order. They layout is optimised for a 800x480 pixel display like the Pimoroni HyperPixel. If you want to use a bigger display you could rejig the code.
+Place some WAV files in /home/pi/Music/ on your Raspberry Pi, up to 14. Any other files, including MP3s, will be ignored. Run picartwall.py and it will assign a button to the first 14 WAV files it finds in alphanumeric order. The layout is optimised for a 800x480 pixel display like the Pimoroni HyperPixel. If you want to use a bigger display you could rejig the code.
 
 # How to use it
 Press a button. Noise comes out. It uses the default audio output which you can select in the normal way. You could use a USB DAC for better sound quality.
